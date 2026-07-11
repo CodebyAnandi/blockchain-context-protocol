@@ -1,0 +1,6 @@
+{
+  "rules": [
+    {"max_trade_size": "20%"},
+    {"allowed_protocols": ["Aave", "Uniswap"]}
+  ]
+}

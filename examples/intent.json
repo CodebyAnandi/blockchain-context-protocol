@@ -1,0 +1,7 @@
+{
+  "goal": "Optimize yield",
+  "constraints": {
+    "max_risk": "medium",
+    "max_slippage": "0.5%"
+  }
+}

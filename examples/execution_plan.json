@@ -1,0 +1,6 @@
+{
+  "steps": [
+    {"action": "withdraw", "protocol": "Aave"},
+    {"action": "swap", "protocol": "Uniswap"}
+  ]
+}

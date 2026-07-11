@@ -1,0 +1,16 @@
+{
+  "account": {
+    "address": "0xAgent",
+    "balances": [
+      {"asset": "USDC", "amount": "5000"},
+      {"asset": "ETH", "amount": "2"}
+    ],
+    "positions": [
+      {"protocol": "Aave", "collateral": "ETH", "health": 1.8}
+    ]
+  },
+  "network": {
+    "chain": "ethereum",
+    "gas": 45
+  }
+}
