@@ -1,0 +1,5 @@
+{
+  "rules": [
+    {"max_amount_eth": 0.001}
+  ]
+}
