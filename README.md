@@ -59,7 +59,7 @@ BCP addresses this by introducing four coordination layers above existing execut
 
 ## Repository Contents
 
-- [`SPEC.md`](SPEC.md) — Full protocol specification (v1.0 draft)
+- [`SPEC.md`](SPEC.md) — - [`demo/`](demo/) — Minimal runnable proof of the core gap: Intent → Policy → Execution → Proof, side by side with naive MCP-style execution
 - [`examples/`](examples/) — Reference JSON objects for Context, Intent, Policy, and Execution Plan
 - [`CHANGELOG.md`](CHANGELOG.md) — Version history
 - [`LICENSE`](LICENSE) — CC BY 4.0

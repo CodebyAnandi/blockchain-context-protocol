@@ -1,0 +1,7 @@
+{
+  "rules": [
+    {"max_trade_size_pct_of_balance": 20},
+    {"allowed_protocols": ["Uniswap", "Aave"]},
+    {"max_slippage_pct": 0.5}
+  ]
+}

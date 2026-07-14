@@ -1,0 +1,13 @@
+{
+  "account": {
+    "address": "0xDemoAgent",
+    "balances": [
+      {"asset": "ETH", "amount": "10"},
+      {"asset": "USDC", "amount": "2000"}
+    ]
+  },
+  "network": {
+    "chain": "sepolia-testnet",
+    "gas": 12
+  }
+}
